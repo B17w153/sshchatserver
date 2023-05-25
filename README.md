@@ -1,8 +1,10 @@
 # BitwiseSSHChatSever
-##BitwiseSSHChatServer 是一个 AArch64 架构的基于 SSH 的聊天服务器
+## BitwiseSSHChatServer 是一个 AArch64 架构的基于 SSH 的聊天服务器
+
 ![QQ图片20230526004758](https://picdl.sunbangyan.cn/2023/05/26/smc3e.png)
+
 因为SSH服务几乎无论什么平台都有，所以你可以随时随地甚至可以在家里的路由器上用拖把当键盘加入聊天！
-###有意思的功能:
+### 有意思的功能:
 - 房间功能! 用 cd 来查看所有房间，用 cd #房间名 加入房间（如果没有会自己创建）
 - 支持Markdown! 表，头，斜体 还有杂七杂八的东西. 用 \n 换行
 - 代码分析高亮. 用Markdown fence发送代码. 发送 eg-code 以查看示例代码示例
