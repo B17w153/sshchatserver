@@ -13,8 +13,10 @@
 - 内置井字棋游戏和Hangman! 发送 tic 或者 hang <word>开始游戏.
 - Emoji 支持! : rocket: => 🚀  (就像discord里一样)
 -  <abbr title="Hyper Text Markup Language">安全 、 自由 、 私密</abbr> ：只要不在服务器里辱骂我，就可以<abbr title="World Wide Web Consortium">随便发表言论</abbr>.
-<img src="https://picdl.sunbangyan.cn/2023/05/26/j3ojx.png" width = "300" height = "300" alt="图片名称" align=center />
-### 服务器由Bitwise - QQ 2216450736,[Github@B17w153](https://GITHUB.COM/B17w153)
+- <img src="https://picdl.sunbangyan.cn/2023/05/26/j3ojx.png" width = "300" height = "300" alt="图片名称" align=center />
+  
+### 服务器由Bitwise-QQ2216450736, [Github@B17w153](https://GITHUB.COM/B17w153) 运行维护
 输入`help`查看公告，输入`cmds`查看常用指令。
+  
 ## 加入服务器教程
 [蓝奏云(包含电脑端和手机端)](https://bitwise.lanzoum.com/b0425ngkb) 提取密码:5l0p
