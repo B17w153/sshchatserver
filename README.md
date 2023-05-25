@@ -2,7 +2,8 @@
 ## BitwiseSSHChatServer 是一个 AArch64 架构的基于 SSH 的聊天服务器
 
 ![QQ图片20230526004758](https://picdl.sunbangyan.cn/2023/05/26/smc3e.png)
-
+## 服务器地址
+frp-fan.top:32106
 因为SSH服务几乎无论什么平台都有，所以你可以随时随地甚至可以在家里的路由器上用拖把当键盘加入聊天！
 ### 有意思的功能:
 - 房间功能! 用 cd 来查看所有房间，用 cd #房间名 加入房间（如果没有会自己创建）
@@ -20,3 +21,4 @@
   
 ## 加入服务器教程
 [蓝奏云(包含电脑端和手机端)](https://bitwise.lanzoum.com/b0425ngkb) 提取密码:5l0p
+
