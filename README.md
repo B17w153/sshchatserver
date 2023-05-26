@@ -1,8 +1,8 @@
 # BitwiseSSHChatSever
-## BitwiseSSHChatServer 是一个 AArch64 架构的基于 SSH 的聊天服务器
+## 0x00 BitwiseSSHChatServer 是一个 AArch64 架构的基于 SSH 的聊天服务器
 
 ![QQ图片20230526004758](https://picdl.sunbangyan.cn/2023/05/26/smc3e.png)
-## 服务器地址
+## 0x01 服务器地址
 
 ```bash
 frp-fan.top:32106
@@ -21,7 +21,7 @@ frp-fan.top:32106
 - 
   
 
-## 加入服务器教程
+## 0x02 加入服务器教程
   [手机端](mobile.md)
   
   [电脑端](PC.md)
