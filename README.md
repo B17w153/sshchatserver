@@ -67,7 +67,7 @@ frp-fan.top:32106
 <details>
   <summary>会显示</summary>
   
-<img src="https://github.com/B17w153/sshchatserver/assets/134407644/5c6a9f0e-b8ea-4800-8707-419a6df5cac8" width="300" height="300">
+<img src="https://github.com/B17w153/sshchatserver/assets/134407644/5c6a9f0e-b8ea-4800-8707-419a6df5cac8">
 </details>
   
 
