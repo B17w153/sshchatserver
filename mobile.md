@@ -5,7 +5,8 @@
 密码:2e9y
 
 ## 苹果：app store直接下载termius
-使用教程 0x00先生成密钥
+直接appstore就行
+# 使用教程 0x00先生成密钥
 
 ![image](https://github.com/B17w153/sshchatserver/assets/134407644/c6b905cb-847e-45e8-8f4e-bc8fa134eb77)
 
