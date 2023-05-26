@@ -24,5 +24,9 @@ frp-fan.top:32106
 输入`help`查看公告，输入`cmds`查看常用指令。
   
 ## 加入服务器教程
-[蓝奏云(包含电脑端和手机端)](https://bitwise.lanzoum.com/b0425ngkb) 提取密码:5l0p
-
+  [手机端](https://)
+  
+  [电脑端](https://)
+  
+  
+[蓝奏云整合(包含电脑端和手机端软件)](https://bitwise.lanzoum.com/b0425ngkb) 提取密码:5l0p
