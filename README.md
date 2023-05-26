@@ -26,7 +26,7 @@ frp-fan.top:32106
 ## 加入服务器教程
   [手机端](mobile.md)
   
-  [电脑端](https://)
+  [电脑端](PC.md)
   
   
 [蓝奏云整合(包含电脑端和手机端软件)](https://bitwise.lanzoum.com/b0425ngkb) 提取密码:5l0p
