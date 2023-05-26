@@ -84,6 +84,14 @@ frp-fan.top:32106
 ```bash
 devmonk
 ```
+  
+### 改名
+  ```bash
+  nick sb
+  ```
+  
+ 就能把你自己的名字改成`sb`
+  当然可以，但不建议
 
  ## 0x05 MIT License
 
