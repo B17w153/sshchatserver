@@ -24,7 +24,7 @@ frp-fan.top:32106
 输入`help`查看公告，输入`cmds`查看常用指令。
   
 ## 加入服务器教程
-  [手机端](https://github.com/B17w153/sshchatserver/mobile.md)
+  [手机端](mobile.md)
   
   [电脑端](https://)
   
