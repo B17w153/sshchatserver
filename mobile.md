@@ -6,7 +6,8 @@
 
 ## 苹果：app store直接下载termius
 直接appstore就行
-# 使用教程 0x00先生成密钥
+# 使用教程 
+## 0x00 首先先生成密钥
 
 ![image](https://github.com/B17w153/sshchatserver/assets/134407644/c6b905cb-847e-45e8-8f4e-bc8fa134eb77)
 
@@ -23,7 +24,7 @@
   
   
 
-0X01 添加主机
+## 0X01 添加主机
 
 
 ![image](https://github.com/B17w153/sshchatserver/assets/134407644/1960d52f-cef3-46d9-b3cb-809c8b9ef85d)
