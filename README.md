@@ -77,8 +77,17 @@ frp-fan.top:32106
 会给` xiaoming` 发送一条 `你好`
 
 ### 内置小游戏
-输入`tic`可以玩井字棋
-'hang' 玩猜词Hangman，不懂是什么的自己去搜
+输入
+```bash
+tic
+```
+可以玩井字棋
+
+输入
+```bash
+hang
+```
+ 玩猜词Hangman，不懂是什么的自己去搜
 
 ### 测试打字速度
 ```bash
@@ -93,6 +102,11 @@ devmonk
  就能把你自己的名字改成`sb`
   当然可以，但不建议
 
+  ### 改名字颜色
+  ```bash
+  color
+  ```
+  输入以查看颜色列表
  ## 0x05 MIT License
 
 Copyright (c) 2022 Ishan Goel
